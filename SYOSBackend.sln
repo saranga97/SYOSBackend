@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYOSBackend", "SYOSBackend.csproj", "{1674F279-FAEF-4915-AE16-A384AE1BE079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1674F279-FAEF-4915-AE16-A384AE1BE079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1674F279-FAEF-4915-AE16-A384AE1BE079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1674F279-FAEF-4915-AE16-A384AE1BE079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1674F279-FAEF-4915-AE16-A384AE1BE079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25202F7-4E98-4BAA-9FB9-C31E0160F432}
+	EndGlobalSection
+EndGlobal
